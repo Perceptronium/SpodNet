@@ -1,0 +1,7 @@
+*.egg-info
+/exps/UBG/*
+/exps/PNP/*
+/exps/E2E/*
+/exps/data/train/*
+/exps/data/test/*
+spodnet/__pycache__/
