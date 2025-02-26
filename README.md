@@ -1,6 +1,6 @@
 # Schur's Positive-Definite Network
 
-This repository contains our PyTorch implementation of the SpodNet model described in `Schur's Positive-Definite Network: Deep Learning in the SPD cone with structure.` _Can Pouliquen, Mathurin Massias, Titouan Vayer, ICLR 2025_
+This repository contains our PyTorch implementation of the SpodNet model described in `Schur's Positive-Definite Network: Deep Learning in the SPD cone with structure. Can Pouliquen, Mathurin Massias, Titouan Vayer (ICLR 2025)`
 
 ## Preamble
 
